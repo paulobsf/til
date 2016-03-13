@@ -7,6 +7,10 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 
 ## Categories
 
+### Docker
+
+- [Dangling Volumes](docker/dangling-volumes.md)
+
 ### Linux
 
 - [Listing processes](linux/list-processes.md)

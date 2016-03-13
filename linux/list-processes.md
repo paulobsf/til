@@ -6,7 +6,7 @@ All, by user, including without tty:
 $ ps aux
 ```
 
-Full, unlimited width, for pid
+Full, unlimited width, for pid:
 
 ```bash
 $ ps -fwwp <pid>
