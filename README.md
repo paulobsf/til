@@ -10,6 +10,7 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 ### Docker
 
 - [Dangling Volumes](docker/dangling-volumes.md)
+- [Inspect IP Address](docker/inspect-ip-address.md)
 
 ### Linux
 
