@@ -7,4 +7,6 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 
 ## Categories
 
-(...)
+### Linux
+
+- [Listing processes](linux/list-processes.md)
