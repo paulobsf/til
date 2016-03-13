@@ -14,4 +14,6 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 
 ### Linux
 
-- [Listing processes](linux/list-processes.md)
+- [List Processes](linux/list-processes.md)
+- [List Network Interfaces](linux/list-network-interfaces.md)
+- [TCP Dump](linux/tcp-dump.md)
