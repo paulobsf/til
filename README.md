@@ -15,6 +15,7 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 ### Git
 
 - [List Repository Contributors](git/list-contributors.md)
+- [Sparse Checkout](git/sparse-checkout.md)
 
 ### Linux
 
