@@ -23,3 +23,7 @@ A collection of snippets for future reference, inspired by [jbranchaud/til](http
 - [List Network Interfaces](linux/list-network-interfaces.md)
 - [TCP Dump](linux/tcp-dump.md)
 - [Compress directory into multiple files](linux/compress-directory-multiple.md)
+
+### AWS CLI
+
+- [Logs](aws-cli/logs.md)
